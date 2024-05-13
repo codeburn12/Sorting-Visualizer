@@ -8,6 +8,8 @@ The Sorting Visualizer Project is an interactive tool that helps users understan
 
 ## Getting Started
 
+You can view a live demo of the Sorting Visualizer Project [here](https://sorting-visualizer-pink.vercel.app/).
+
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
 <img src="img/img3.png"> <br/>
@@ -24,7 +26,7 @@ Before running the Sorting Visualizer Project, ensure you have the following ins
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/codeburn12/sorting-visualizer
 ```
 2. Navigate to the project directory:
 ```
